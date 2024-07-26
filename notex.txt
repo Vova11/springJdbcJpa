@@ -1,0 +1,13 @@
+INSERT INTO course (id, name, author) VALUES
+    (1, 'Introduction to Java', 'John Doe'),
+    (2, 'Advanced Java Programming', 'Jane Smith'),
+    (3, 'Spring Boot Basics', 'Alice Johnson'),
+    (4, 'Database Design', 'Bob Brown'),
+    (5, 'Data Structures and Algorithms', 'Emily Davis'),
+    (6, 'Web Development with HTML & CSS', 'Michael Wilson'),
+    (7, 'JavaScript Essentials', 'Sara Lee'),
+    (8, 'Python for Data Science', 'David Martinez'),
+    (9, 'Machine Learning with Python', 'Laura Clark'),
+    (10, 'Cloud Computing Fundamentals', 'Tom Robinson');
+
+    select * from course;
